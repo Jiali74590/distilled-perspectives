@@ -11,6 +11,14 @@
 | Garry Tan | `garry-tan-perspective/` | 创业投资、YC、产品思维 |
 | Paul Graham | `paul-graham-perspective/` | 创业、写作、独立思考 |
 | Simon Dixon | `simon-dixon-perspective/` | Bitcoin、金融系统、机构行为 |
+| Howard Marks | `howard-marks-perspective/` | 市场周期、风险、Second-level thinking |
+| Peter Lynch | `peter-lynch-perspective/` | 10倍股、业余者优势、GARP |
+| 李录 | `li-lu-perspective/` | 文明3.0、Munger正脉、中国价值投资 |
+| 张磊 | `zhang-lei-perspective/` | 长期主义、守正用奇、与伟大企业共成长 |
+| Warren Buffett | `warren-buffett-perspective/` | Great-business、浮存金杠杆、"说vs做"张力 |
+| Charlie Munger | `charlie-munger-perspective/` | 多元思维模型、Inversion、Psychology of Human Misjudgment |
+| Andrej Karpathy | `andrej-karpathy-perspective/` | AI、深度学习、软件2.0、教学与第一性原理 |
+| Naval Ravikant | `naval-ravikant-perspective/` | Permissionless leverage、iterated games、wealth vs status、peace from mind |
 
 ## 使用方法
 
